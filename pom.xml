@@ -14,4 +14,13 @@
     <module>marlo-core</module>
     <module>marlo-data</module>
   </modules>
+<dependenses>
+<!-- Source: https://mvnrepository.com/artifact/com.github.hivemq.hivemq-mqtt-client/hivemq-mqtt-client -->
+<dependency>
+    <groupId>com.github.hivemq.hivemq-mqtt-client</groupId>
+    <artifactId>hivemq-mqtt-client</artifactId>
+    <version>v1.3.7</version>
+    <scope>compile</scope>
+</dependenses>
+   
 </project>
